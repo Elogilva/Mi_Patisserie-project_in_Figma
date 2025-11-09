@@ -1,6 +1,6 @@
 **PORTUGUÊS**
 
-# -Mi-Patisserie-project-in-Figma
+# Mi Patisserie (project in Figma)
 the project for the coffe shop "Mi Patisserie", developed by me and my team for work's college
 
 # Mi Patisserie – Sistema de Cafeteria
