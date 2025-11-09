@@ -27,11 +27,11 @@ Visualize o protótipo interativo no Figma:
 - Design responsivo, adaptável a diferentes dispositivos  
 
 ## Ferramentas Utilizadas
-- Figma — design e prototipagem de interface  
-- GitHub— controle de versão e documentação do projeto  
+- Figma -design e prototipagem de interface  
+- GitHub -controle de versão e documentação do projeto  
 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **ENGLISH**
 
