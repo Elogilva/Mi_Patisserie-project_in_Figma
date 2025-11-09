@@ -11,7 +11,8 @@ O design foca em oferecer uma experiência de uso elegante, intuitiva e eficient
 ## Protótipo
 
 Visualize o protótipo interativo no Figma:  
-[Figma](https://www.figma.com/proto/Zj8zTQhCf60nAVLT7AdYcm/Software-de-venda?node-id=681-15&starting-point-node-id=681%3A15)
+[Figma (Desktop)](https://www.figma.com/proto/Zj8zTQhCf60nAVLT7AdYcm/Software-de-venda?node-id=681-15&starting-point-node-id=681%3A15)
+[Figma (Mobile)](https://www.figma.com/proto/Zj8zTQhCf60nAVLT7AdYcm/Software-de-venda?node-id=660-13&p=f&t=XnLhlAaB4C0COaPQ-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=660%3A13)
 
 ## Visão Geral
 
