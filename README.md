@@ -4,8 +4,7 @@
 the project for the coffe shop "Mi Patisserie", developed by me and my team for work's college
 
 # Mi Patisserie – Sistema de Cafeteria
-
-Este repositório apresenta o design de interface do **Mi Patisserie**, um sistema de gestão para cafeterias desenvolvido por mim e minha equipe como parte de um projeto acadêmico.  
+Este repositório apresenta o design de interface do **Mi Patisserie**, um sistema de gestão para cafeterias desenvolvido por mim e minha equipe como parte de um projeto acadêmico.
 O design foca em oferecer uma experiência de uso elegante, intuitiva e eficiente, tanto para funcionários quanto para clientes.
 
 ## Protótipo
